@@ -8,13 +8,13 @@
 
 プログラム体験会へ予約するために、以下のドキュメントを参照し、プログラム体験会への参加予約を行ってください。
 
-- [【手順書】プログラミング体験会参加予約方法](https://github.com/tamito0201/promari-introduction/blob/master/01_Introduction/20190214%20-%20%E3%80%90%E3%82%A4%E3%83%B3%E3%83%88%E3%83%AD%E3%83%80%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%91ENV0101%20-%20%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E4%BD%93%E9%A8%93%E4%BC%9A%E5%8F%82%E5%8A%A0%E4%BA%88%E7%B4%84%E6%96%B9%E6%B3%95.md)
+- [【手順書】プログラミング体験会への申込方法](https://github.com/tamito0201/promari-public/blob/master/doc/00_Preparation/20190214%20-%20%E3%80%90%E6%89%8B%E9%A0%86%E6%9B%B8%E3%80%91MAN0002%20-%20%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E4%BD%93%E9%A8%93%E4%BC%9A%E3%81%B8%E3%81%AE%E7%94%B3%E8%BE%BC%E6%96%B9%E6%B3%95.md)
 
 ## 3. ソフトウェアの事前インストール
 
 プログラム体験会へ参加するために、以下のドキュメントを参照し、ソフトウェアの事前インストールを行ってください。
 
-- [【環境構築】ソフトウェアの事前準備](https://github.com/tamito0201/promari-introduction/blob/master/00_Preparation/20190203%20-%20%E3%80%90%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89%E3%80%91ENV0000%20-%20%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E4%BA%8B%E5%89%8D%E6%BA%96%E5%82%99.md)
+- [【手順書】ソフトウェアの事前準備](https://github.com/tamito0201/promari-public/blob/master/doc/00_Preparation/20190203%20-%20%E3%80%90%E6%89%8B%E9%A0%86%E6%9B%B8%E3%80%91ENV0000%20-%20%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E4%BA%8B%E5%89%8D%E6%BA%96%E5%82%99.md)
 
 ## 4. プログラム体験会への参加
 

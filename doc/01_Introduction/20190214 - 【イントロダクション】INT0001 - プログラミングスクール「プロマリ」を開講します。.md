@@ -118,7 +118,7 @@
 
 - [プロマリのプログラミングレッスンの申し込み方法](https://github.com/tamito0201/promari-public/blob/master/doc/00_Preparation/20190216%20-%20%E3%80%90%E6%89%8B%E9%A0%86%E6%9B%B8%E3%80%91MAN0001%20-%20%E3%83%97%E3%83%AD%E3%83%9E%E3%83%AA%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AC%E3%83%83%E3%82%B9%E3%83%B3%E3%81%AE%E7%94%B3%E8%BE%BC.md)
 
-### 6. 終わりに
+## 6. 終わりに
 
 #### Customer Service Desk
 

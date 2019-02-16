@@ -1,6 +1,6 @@
 ## 1. はじめに
 
-この度、プログラミングスクール「[プロマリ](https://www.programming-mariage.jp/)」を開講致しました。
+この度、プログラミングスクール「[プロマリ](https://www.programming-mariage.jp/)」にご興味を持って頂き、ありがとうございます。
 
 ![cjw6s5u4j9.png](https://img.esteem.ws/cjw6s5u4j9.png)
 

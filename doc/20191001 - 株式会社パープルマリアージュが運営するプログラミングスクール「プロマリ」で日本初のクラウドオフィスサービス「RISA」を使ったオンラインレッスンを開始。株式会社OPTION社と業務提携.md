@@ -23,7 +23,11 @@ HP：https://www.programming-mariage.jp/<br>
 代表：代表取締役 紫 貴臣<br>
 設立：2015年7月23日<br>
 事業内容：人材育成のための教育事業ならびにコンピュータシステムの企画、開発、運営、保守。各種セミナー、イベント、研修、各種コンサルティング業務<br>
+TEL:03-4400-1859<br>
+FAX:03-4243-2614<br>
 Mail: info@programming-mariage.jp<br>
+お問い合わせ：https://www.programming-mariage.jp/contact
+
 <br>
 ■株式会社OPSION<br>
 <br>

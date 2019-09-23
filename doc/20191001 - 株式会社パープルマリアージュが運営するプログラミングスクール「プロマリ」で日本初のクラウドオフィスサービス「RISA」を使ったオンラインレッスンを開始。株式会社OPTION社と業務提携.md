@@ -29,7 +29,7 @@ Mail: info@programming-mariage.jp<br>
 お問い合わせ：https://www.programming-mariage.jp/contact
 
 <br>
-■株式会社OPSION<br>
+■株式会社OPSIONについて<br>
 <br>
 所在地：〒530-0027 大阪府大阪市北区堂山町1-5三共梅田ビル7階<br>
 代表者：代表取締役　深野 崇<br>
@@ -38,7 +38,7 @@ Mail: info@programming-mariage.jp<br>
 URL：https://opsion.jp/<br>
 Mail：info@opsion.jp<br>
 <br>
-■クラウドオフィス「RISA」クローズドβ版のLP公開<br>
+■クラウドオフィス「RISA」について<br>
 https://risa.ne.jp/<br>
 <br>
 RISAは、勤務中は常時ログインすることを前提とした新しいオフィスの形です。いざ在宅で勤務すると、チームの様子が見えない。隣にいないから、チャットで話しかけるのにちょっとだけ気を使う。リモートワークで業務は効率化されたけど、仲間とのつながりまで省略されてしまった気がする。
